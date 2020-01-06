@@ -4,6 +4,9 @@
 
 Suggested lunch API.
 
+> Note: due to json file not updated you might need to modify the date in `$today` variable in `LunchService.php:21`.
+> Unit tests provided already demonstrated some dates.
+
 ## User Story
 
 As a User I would like to make a request to an API that will determine from a set of recipes what I can have for lunch today based on the contents of my fridge, so that I quickly decide what I’ll be having.
